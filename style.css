@@ -1,0 +1,75 @@
+
+#body1{
+    background: linear-gradient(orangered,deeppink);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 50px;
+}
+
+
+#whole1{
+    background-color: seashell;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+
+
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+  }
+
+#title1{
+    font-family: "consolas",sans-serif ;
+    color:orangered;
+    text-align: center;
+}
+
+#title2{
+    font-family: "consolas",sans-serif ;
+    color: orangered;
+    text-align: center;
+}
+
+#list1{
+    font-family: "consolas",sans-serif ;
+    color: orangered;
+    align-items: center;
+}
+
+
+#whole2{
+    background-color: seashell;
+    padding: 10px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+#title4{
+    font-family: "consolas",sans-serif ;
+    color: deeppink;
+    text-align: center;
+}
+#info1{
+    font-family: "consolas",sans-serif ;
+    color: deeppink;
+    text-align: center;
+}
+#whole3{
+    background-color: seashell;
+    padding: 10px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+#title5{
+    font-family: "consolas",sans-serif ;
+    color: deeppink;
+    text-align: center;
+}
+#list2{
+    font-family: "consolas",sans-serif ;
+    color: deeppink;
+    text-align: center;
+}
